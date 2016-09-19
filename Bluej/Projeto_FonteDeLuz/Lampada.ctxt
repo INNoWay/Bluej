@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=void\ setpotencia(int)
+comment1.params=
+comment1.target=int\ getpotencia()
+comment2.params=s
+comment2.target=void\ Tipo(java.lang.String)
+numComments=3

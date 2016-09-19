@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=nrLinhas\ nrColunas
+comment0.target=Tabuleiro(int,\ int)
+comment1.params=linha\ coluna\ peca
+comment1.target=void\ setPeca(int,\ int,\ char)
+comment2.params=linha\ coluna
+comment2.target=char\ getPeca(int,\ int)
+comment3.params=linha\ coluna
+comment3.target=boolean\ estaLivre(int,\ int)
+comment4.params=
+comment4.target=void\ esvaziarTabuleiro()
+comment5.params=
+comment5.target=int\ getNrColunas()
+comment6.params=
+comment6.target=int\ getNrLinhas()
+comment7.params=
+comment7.target=int\ getCountLivres()
+comment8.params=bLivres
+comment8.target=java.lang.String[]\ getLista(boolean)
+numComments=9

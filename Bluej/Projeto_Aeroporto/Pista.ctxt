@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=Pista(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getch()
+comment2.params=tam
+comment2.target=void\ set(java.lang.String)
+comment3.params=
+comment3.target=boolean\ verifila()
+comment4.params=elemen
+comment4.target=void\ inser(Aviao)
+comment5.params=
+comment5.target=void\ remove()
+comment6.params=
+comment6.target=void\ passatenpo()
+numComments=7

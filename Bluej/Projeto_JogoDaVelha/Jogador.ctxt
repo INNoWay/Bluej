@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=simbolo
+comment0.target=Jogador(char)
+comment1.params=
+comment1.target=void\ incrementaVitorias()
+comment2.params=
+comment2.target=void\ zerarVitorias()
+comment3.params=
+comment3.target=char\ getSimbolo()
+comment4.params=
+comment4.target=int\ getVitorias()
+numComments=5

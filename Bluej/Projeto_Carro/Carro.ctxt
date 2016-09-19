@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=corCarro\ modeloCarro\ numCarro
+comment0.target=Carro(java.lang.String,\ java.lang.String,\ int)
+comment1.params=i
+comment1.target=void\ andar(int)
+comment2.params=
+comment2.target=void\ mostrar()
+numComments=3

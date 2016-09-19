@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ abre()
+comment1.params=
+comment1.target=void\ fecha()
+comment2.params=s
+comment2.target=void\ pinta(java.lang.String)
+comment3.params=
+comment3.target=void\ esta_aberta()
+numComments=4
